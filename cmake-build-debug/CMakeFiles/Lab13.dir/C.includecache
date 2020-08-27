@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/grahammix/Documents/CSCD240/Lab13/lab13.c
+lab13.h
+/home/grahammix/Documents/CSCD240/Lab13/lab13.h
+utils/utils.h
+/home/grahammix/Documents/CSCD240/Lab13/utils/utils.h
+stdlib.h
+-
+stdio.h
+-
+
+/home/grahammix/Documents/CSCD240/Lab13/lab13.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/grahammix/Documents/CSCD240/Lab13/utils/utils.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

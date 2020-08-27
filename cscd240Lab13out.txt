@@ -1,0 +1,77 @@
+Please enter the name of the input file Addresses2.txt
+Choose from the following:
+1) Print the array sorted by street
+2) Print the array sorted by city
+3) Print the array sorted by state then city then by zip
+4) Print the array sorted by zip
+5) Quit
+Enter you choice-> 1
+13000 SD-244 
+Keystone  SD  57751
+
+400 Broad St. 
+Seattle  WA  98109
+
+First St. SE 
+Washington  DC  20004
+
+
+Choose from the following:
+1) Print the array sorted by street
+2) Print the array sorted by city
+3) Print the array sorted by state then city then by zip
+4) Print the array sorted by zip
+5) Quit
+Enter you choice-> 2
+13000 SD-244 
+Keystone  SD  57751
+
+400 Broad St. 
+Seattle  WA  98109
+
+First St. SE 
+Washington  DC  20004
+
+
+Choose from the following:
+1) Print the array sorted by street
+2) Print the array sorted by city
+3) Print the array sorted by state then city then by zip
+4) Print the array sorted by zip
+5) Quit
+Enter you choice-> 3
+First St. SE 
+Washington  DC  20004
+
+13000 SD-244 
+Keystone  SD  57751
+
+400 Broad St. 
+Seattle  WA  98109
+
+
+Choose from the following:
+1) Print the array sorted by street
+2) Print the array sorted by city
+3) Print the array sorted by state then city then by zip
+4) Print the array sorted by zip
+5) Quit
+Enter you choice-> 4
+First St. SE 
+Washington  DC  20004
+
+13000 SD-244 
+Keystone  SD  57751
+
+400 Broad St. 
+Seattle  WA  98109
+
+
+Choose from the following:
+1) Print the array sorted by street
+2) Print the array sorted by city
+3) Print the array sorted by state then city then by zip
+4) Print the array sorted by zip
+5) Quit
+Enter you choice-> 5
+all done

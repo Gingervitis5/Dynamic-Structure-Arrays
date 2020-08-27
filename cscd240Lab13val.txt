@@ -1,0 +1,145 @@
+Please enter the name of the input file Addresses.txt
+Choose from the following:
+1) Print the array sorted by street
+2) Print the array sorted by city
+3) Print the array sorted by state then city then by zip
+4) Print the array sorted by zip
+5) Quit
+Enter you choice-> 0
+Choose from the following:
+1) Print the array sorted by street
+2) Print the array sorted by city
+3) Print the array sorted by state then city then by zip
+4) Print the array sorted by zip
+5) Quit
+Enter you choice-> 6
+Choose from the following:
+1) Print the array sorted by street
+2) Print the array sorted by city
+3) Print the array sorted by state then city then by zip
+4) Print the array sorted by zip
+5) Quit
+Enter you choice-> 1
+1090 West Betz Rd 
+Cheney  WA  99004
+
+1600 Pennsylvania Ave NW 
+Washington DC  WA DC  20500
+
+20 W 24th St. 
+New York  NY  10001
+
+271 Rachel Rd 
+Kennewick  WA  99338
+
+520 4th St. 
+Cheney  WA  99004
+
+600 N Arthur St. 
+Kennewick  WA  99336
+
+Champ de Mars, 5 Avenue Anatole France 
+Paris  France  75007
+
+Choose from the following:
+1) Print the array sorted by street
+2) Print the array sorted by city
+3) Print the array sorted by state then city then by zip
+4) Print the array sorted by zip
+5) Quit
+Enter you choice-> 2
+1090 West Betz Rd 
+Cheney  WA  99004
+
+520 4th St. 
+Cheney  WA  99004
+
+271 Rachel Rd 
+Kennewick  WA  99338
+
+600 N Arthur St. 
+Kennewick  WA  99336
+
+20 W 24th St. 
+New York  NY  10001
+
+Champ de Mars, 5 Avenue Anatole France 
+Paris  France  75007
+
+1600 Pennsylvania Ave NW 
+Washington DC  WA DC  20500
+
+Choose from the following:
+1) Print the array sorted by street
+2) Print the array sorted by city
+3) Print the array sorted by state then city then by zip
+4) Print the array sorted by zip
+5) Quit
+Enter you choice-> 3
+Champ de Mars, 5 Avenue Anatole France 
+Paris  France  75007
+
+20 W 24th St. 
+New York  NY  10001
+
+1090 West Betz Rd 
+Cheney  WA  99004
+
+520 4th St. 
+Cheney  WA  99004
+
+600 N Arthur St. 
+Kennewick  WA  99336
+
+271 Rachel Rd 
+Kennewick  WA  99338
+
+1600 Pennsylvania Ave NW 
+Washington DC  WA DC  20500
+
+Choose from the following:
+1) Print the array sorted by street
+2) Print the array sorted by city
+3) Print the array sorted by state then city then by zip
+4) Print the array sorted by zip
+5) Quit
+Enter you choice-> 4
+20 W 24th St. 
+New York  NY  10001
+
+1600 Pennsylvania Ave NW 
+Washington DC  WA DC  20500
+
+Champ de Mars, 5 Avenue Anatole France 
+Paris  France  75007
+
+1090 West Betz Rd 
+Cheney  WA  99004
+
+520 4th St. 
+Cheney  WA  99004
+
+600 N Arthur St. 
+Kennewick  WA  99336
+
+271 Rachel Rd 
+Kennewick  WA  99338
+
+Choose from the following:
+1) Print the array sorted by street
+2) Print the array sorted by city
+3) Print the array sorted by state then city then by zip
+4) Print the array sorted by zip
+5) Quit
+Enter you choice-> 5
+all done
+==3624== 
+==3624== HEAP SUMMARY:
+==3624==     in use at exit: 0 bytes in 0 blocks
+==3624==   total heap usage: 26 allocs, 26 frees, 7,150 bytes allocated
+==3624== 
+==3624== All heap blocks were freed -- no leaks are possible
+==3624== 
+==3624== For counts of detected and suppressed errors, rerun with: -v
+==3624== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+

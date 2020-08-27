@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Lab13.dir/utils/fileUtils.c.o CMakeFiles/Lab13.dir/utils/utils.c.o CMakeFiles/Lab13.dir/cscd240Lab13.c.o CMakeFiles/Lab13.dir/lab13.c.o  -o Lab13 
